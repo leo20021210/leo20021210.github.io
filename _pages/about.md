@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am Chuanyang Jin, a junior in Honors Computer Science and Mathematics at New York University
+I am Chuanyang Jin, a junior in Honors Computer Science and Mathematics at New York University.
