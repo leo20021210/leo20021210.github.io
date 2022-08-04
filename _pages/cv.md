@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+To be updated
+
+<!-- Here is my [CV](https://yilunkuang.github.io/files/Yilun_resume.pdf) (Last update: July 17, 2022). -->
+
+
+<!--
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -57,3 +63,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
