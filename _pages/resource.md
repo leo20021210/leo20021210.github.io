@@ -8,3 +8,7 @@ author_profile: true
 ### Notes
 
 + [NYU Course Notes & Resources](https://github.com/chuanyangjin/Course-Notes)
+
+### Courses
+
++ [Machine Learning Courses Available on Youtube](https://yilunkuang.github.io/resource/ML_courses)
