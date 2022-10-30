@@ -11,4 +11,4 @@ author_profile: true
 
 ### Courses
 
-+ [Machine Learning Courses Available on Youtube](https://yilunkuang.github.io/resource/ML_courses)
++ [Machine Learning Courses Available on Youtube](https://chuanyangjin.github.io/resource/ML_courses)
