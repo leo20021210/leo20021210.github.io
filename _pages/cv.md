@@ -4,15 +4,14 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %}
 
-To be updated
+<!-- To be updated -->
 
-<!-- Here is my [CV](https://yilunkuang.github.io/files/Yilun_resume.pdf) (Last update: July 17, 2022). -->
-Here is my [CV](https://chuanyang.github.io/files/Chuanyang_CV.pdf)
+Here is my [CV](https://github.com/chuanyangjin/chuanyangjin.github.io/blob/master/files/Chuanyang_CV.pdf)
 
 
 <!--
