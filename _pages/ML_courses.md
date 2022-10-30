@@ -7,8 +7,6 @@ author_profile: true
 
 # 📺 ML YouTube Courses
 
-In this repo we share some of the best and most recent machine learning courses available on YouTube.
-
 **Machine Learning**
 
 - [Stanford CS229: Machine Learning](#stanford-cs229-machine-learning)
