@@ -12,7 +12,7 @@ redirect_from:
 To be updated
 
 <!-- Here is my [CV](https://yilunkuang.github.io/files/Yilun_resume.pdf) (Last update: July 17, 2022). -->
-Here is my [CV](https://yilunkuang.github.io/files/Chuanyang_CV.pdf)
+Here is my [CV](https://chuanyang.github.io/files/Chuanyang_CV.pdf)
 
 
 <!--
