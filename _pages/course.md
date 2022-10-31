@@ -18,7 +18,7 @@ Selected Courseworks at New York University
 + CSCI-GA 2590 Natural Language Processing (Graduate)
 
 ### Software Engineering
-+ CSCI-UA 310  Basic Algorithms (Grader)
++ CSCI-UA 310  Basic Algorithms (TA)
 + CSCI-UY 2124 Object Oriented Programming
 + CSCI-SHU 210 Data Structures
 + CSCI-UA 202  Operating Systems
