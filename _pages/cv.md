@@ -11,7 +11,7 @@ redirect_from:
 
 <!-- To be updated -->
 
-Here is my [CV](https://github.com/chuanyangjin/chuanyangjin.github.io/blob/master/files/Chuanyang_CV.pdf) (Last update: Oct, 2022).
+Here is my [CV](https://chuanyangjin.github.io/files/Chuanyang_CV.pdf) (Last update: Oct, 2022).
 
 
 <!--
