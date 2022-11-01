@@ -7,7 +7,7 @@ author_profile: true
 
 ### Notes
 
-+ [NYU Course Notes & Resources](https://github.com/chuanyangjin/Course-Notes)
++ [NYU Course Notes & Resources](https://chuanyangjin.github.io/resource/NYU_course_notes_and_resources)
 
 ### Courses
 
