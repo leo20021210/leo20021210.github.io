@@ -5,7 +5,7 @@ permalink: /resource/NYU_course_notes_and_resources
 author_profile: true
 ---
 
-# NYU Course Notes and Resources
+# NYU Course Notes & Resources
 ### This repository contains a collection of notes and resources for NYU Computer Science and Math courses. Hopefully, it would be helpful during your learning and review, or provide some knowledge when you are struggling with which course to choose.
 
 
