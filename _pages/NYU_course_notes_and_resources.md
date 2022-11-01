@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: ""
-permalink: /resource/NYU_courses_notes_and_resources
+permalink: /resource/NYU_course_notes_and_resources
 author_profile: true
 ---
 
-# NYU_courses_notes_and_resources
+# NYU_course_notes_and_resources
 ### This repository contains a collection of notes and resources for NYU Computer Science and Math courses. Hopefully, it would be helpful during your learning and review, or provide some knowledge when you are struggling with which course to choose.
 
 
