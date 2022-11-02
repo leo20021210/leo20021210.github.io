@@ -11,4 +11,5 @@ author_profile: true
 
 ### Courses
 
-+ [Machine Learning Courses Available on Youtube](https://chuanyangjin.github.io/resource/ML_courses)
++ [Machine Learning Courses Available on Youtube](https://chuanyangjin.github.io/resource/ml_youtube_courses)
++ [Awesome CS Courses](https://chuanyangjin.github.io/resource/awesome_cs_courses)
