@@ -83,7 +83,7 @@ author:
   name             : "Chuanyang Jin"
   avatar           : "bio-photo.jpg"
   bio              : "Undergraduate Student at New York University"
-  location         : "New York"
+  location         :  # "New York, NY"
   employer         :
   pubmed           :  # "Undergraduate Student at New York University"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
