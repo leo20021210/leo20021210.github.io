@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /resource/ML_courses
+permalink: /resource/ml_youtube_courses
 author_profile: true
 ---
 
