@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- To be updated -->
-
-Here is my [CV](https://chuanyangjin.github.io/files/Chuanyang_CV.pdf) (Last update: Oct, 2022).
+Here is my [CV](https://chuanyangjin.github.io/files/Chuanyang_CV.pdf) (Last update: Nov 2022).
 
 
 <!--
