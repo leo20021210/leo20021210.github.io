@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am Chuanyang Jin, a junior undergraduate student in Honors Computer Science and Mathematics at New York University.
+I am Peiqi Liu, an undergraduate student in Honors Computer Science and Mathematics at New York University.
 
-My research interests lie in deep learning, computer vision, and self-supervised learning. I am currently working with [Prof. Feng Chen](https://engineering.nyu.edu/faculty/chen-feng) on self-supervised visual recognition for robots, and [Prof. Oded Regev](https://cims.nyu.edu/~regev/) on interpretable machine learning to derive insights into biological processes. Prior to that, I spent time as a summer intern at Huawei and a teaching assistant at NYU.
-
-Beyond my academic pursuit, I enjoy roaming in movies and books. I am an avid reader of physics, history, and scientific fiction, as well as a dedicated writer read by more than 15,000,000 times on different platforms. I also enjoy playing "Go", piano, and badminton.
+My research interests lie in deep learning, computer vision, and self-supervised learning. I am currently working with [Prof. Carlos Fernandez Granda]([https://math.nyu.edu/~cfgranda/]) on self-supervised visual image denoising. Prior to that, I have worked for [Prof. Rob Fergus]([https://cs.nyu.edu/~fergus/pmwiki/pmwiki.php]) on his Machine Common Sense project and am a software engineer in Yahoo during Summer 2022.
