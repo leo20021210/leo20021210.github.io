@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Peiqi Liu"
 title_separator          : "-"
-name                     : &name "Chuanyang Jin"
+name                     : &name "Peiqi Liu"
 description              : &description "Undergraduate Student at New York University"
 url                      : https://leo20021210.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chuanyangjin"
+  github           : "leo20021210"
   google_plus      :
   keybase          :
-  instagram        : jcyserendipity
+  instagram        : darth.peiqi
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : chuanyang-jin
+  linkedin         : peiqi-liu-2a40901b6
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
