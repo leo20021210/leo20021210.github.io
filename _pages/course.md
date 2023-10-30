@@ -10,8 +10,6 @@ Selected Courseworks at New York University
 ***
 
 ### Machine Learning
-+ CSCI-UA 520  Undergraduate Research (Working with Prof Carlos Fernandez-Granda)
-+ CSCI-UA 521  Undergraduate Research (Working with Prof Carlos Fernandez-Granda)
 + CSCI-UA 473  Intro to Machine Learning
 + CSCI-GA 2271 Computer Vision (Graduate)
 + CSCI-GA 2565 Machine Learning (Graduate)
@@ -32,7 +30,7 @@ Selected Courseworks at New York University
 + MATH-UA 343 Algebra
 + MATH-UA 325 Analysis
 + MATH-UA 252	Numerical Analysis
-+ MATH-UA 253 Linear and Non-linear Optimization
++ MATH-UA 253 Linear and Non-linear Optimization (TA)
 + MATH-UA 148	Honors Linear Algebra
 + MATH-UA 120	Discrete Mathematics
 + MATH-UA 233	Probability Theory
