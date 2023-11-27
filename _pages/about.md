@@ -10,4 +10,4 @@ redirect_from:
 
 I am Peiqi Liu, an undergraduate student in Honors Computer Science and Mathematics at New York University.
 
-My research interests lie in robotics, 3D vision, and multi-modal learning. I am currently working with [Prof. Lerrel Pinto](https://www.lerrelpinto.com/) on long-horizon open vocabulary manipulation. Prior to that, I have worked with [Prof. Mengye Ren]([https://mengyeren.com/]) on self supervised computer vision representational learning during Spring 2023.
+My research interests lie in robotics, 3D vision, and multi-modal learning. I am currently working with [Prof. Lerrel Pinto](https://www.lerrelpinto.com/) on long-horizon open vocabulary manipulation. Prior to that, I have worked with [Prof. Mengye Ren](https://mengyeren.com/) on self supervised computer vision representational learning during Spring 2023.
