@@ -17,8 +17,8 @@ main:
  # - title: "Publications"
  #   url: /publications/
  
-  - title: "Project"
-    url: /project/
+ # - title: "Project"
+ #   url: /project/
 
   - title: "Courses"
     url: /course/
